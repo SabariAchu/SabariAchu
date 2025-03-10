@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabari C S</h1>
-<h3 align="center">I am a passionate Data Science student at QUT</h3>
+<h3 align="center">I am a Data Science student at QUT</h3>
 
-- 🌱 I’m currently learning:- ** No Sql databases and Advanced Statistics and Computational Science **
+- 🌱 I’m currently learning:- ** Currently learning machine learning and Data warehousing **
 
 - 👨‍💻 All of my projects are available at (https://github.com/SabariAchu?tab=repositories)
 
