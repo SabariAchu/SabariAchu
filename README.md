@@ -9,6 +9,7 @@
     * Advanced Statistical knowledge
     * Data visualisation in R
     * Programming knowledge in Python, C#
+    * Data Warehousing 
 
 - 📫You can contact me through email:- **sabariachu12@gmail.com**
 
