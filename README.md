@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sabari C S</h1>
 <h3 align="center">I am a Data Science student at QUT</h3>
 
-- 🌱 I’m currently learning:- ** Currently learning machine learning and Data warehousing **
+- 🌱 I’m currently learning:- ** Currently learning Computer Vision **
 
 - 👨‍💻 All of my projects are available at (https://github.com/SabariAchu?tab=repositories)
 
 - Skills:-
     * Advanced Statistical knowledge
-    * Data visualisation in R
+    * Data visualisation in R, Power BI and Python
     * Programming knowledge in Python, C#
-    * Data Warehousing 
+    * Data Warehousing
+    * Machine Learning 
 
 - 📫You can contact me through email:- **sabariachu12@gmail.com**
 
